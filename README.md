@@ -14,7 +14,7 @@ if you want you can download the .py file directly, if you will do this make sur
 
 # WARNING
 
-Sometimes, for bot protection, OwO will send you a private confirmation message, if this happens, pause the bot and reply to the message.
+Sometimes, for bot protection, OwO will send you a private confirmation message, if this happens pause the bot and reply to the message.
 
 If you don't answer the confirmation message, owo will give you 5 more replies. If you don't answer 5 more times, you will be suspended for 1 hour.
 
