@@ -11,6 +11,7 @@ because it does not have a reliable license because this is a hobby project.
 
 if you want you can download the .py file directly, if you will do this make sure you have **keyboard**, **pyautogui** in your python library or it will not work
 
+#
 
 # WARNING
 
@@ -18,6 +19,7 @@ Sometimes, for bot protection, OwO will send you a private confirmation message,
 
 If you don't answer the confirmation message, owo will give you 5 more replies. If you don't answer 5 more times, you will be suspended for 1 hour.
 
+#
 
 
 # Credits
